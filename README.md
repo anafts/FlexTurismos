@@ -1,7 +1,7 @@
 <h1 align="center"><a href="#" alt="site flexturismo"> FLEX-TURISMOS ✈️ </a></h1>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/anafts/FlexTurismo-landing-page?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/anafts/FlexTurismo-landing-page?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/anafts/FlexTurismo?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/anafts/FlexTurismo?style=for-the-badge)
 
 ![preview](./.github/preview.png)
 
@@ -15,7 +15,7 @@ O projeto é totalmente responsivo e foi criado usando as propriedade do Flexbox
  <br>
 
  ## 🚀 Como acessar o projeto:
-[Clique aqui para acessar](https://anafts.github.io/FlexTurismo-landing-page/)
+[Clique aqui para acessar](https://anafts.github.io/FlexTurismo/)
 
 <br>
 
