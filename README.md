@@ -8,6 +8,7 @@
 <br><h4 align="center"> 🟢 Status do projeto:  Concluído ✔️   </h4> <br>
 
 ## 💻 Descrição do projeto 
+
  
 A FlexTurismo é uma landing page criada como projeto final do curso posicionando elementos com flexbox em CSS da Digital Innovation One. 
 
