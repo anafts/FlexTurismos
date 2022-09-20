@@ -28,3 +28,4 @@ O projeto é totalmente responsivo e foi criado usando as propriedade do Flexbox
 
 ## 📚 Aprendizagem:
 - FlexBox
+- Responsividade
