@@ -16,7 +16,7 @@ O projeto é totalmente responsivo e foi criado usando as propriedade do Flexbox
  <br>
 
  ## 🚀 Como acessar o projeto:
-[Clique aqui para acessar](https://anafts.github.io/FlexTurismo/)
+Para acessar o link do projeto [clique aqui](https://anafts.github.io/FlexTurismo/)
 
 <br>
 
