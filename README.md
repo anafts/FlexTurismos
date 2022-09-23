@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/anafts/FlexTurismos?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/anafts/FlexTurismos?style=for-the-badge)
 
-![anafts github io_FlexTurismo_](https://user-images.githubusercontent.com/106173948/192027345-68d07e8a-d7d8-4557-aa10-b6ef28787aab.png)
+![anafts github io_FlexTurismos_](https://user-images.githubusercontent.com/106173948/192027345-68d07e8a-d7d8-4557-aa10-b6ef28787aab.png)
 
 <br><h4 align="center"> 🟢 Status do projeto:  Concluído ✔️   </h4> <br>
 
