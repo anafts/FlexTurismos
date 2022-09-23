@@ -1,4 +1,4 @@
-<h1 align="center"><a href="#" alt="site flexturismo"> FLEX-TURISMOS ✈️ </a></h1>
+<h1 align="center"><a href="#" alt="site flexturismo"> FLEX-TURISMO ✈️ </a></h1>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/anafts/FlexTurismo?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/anafts/FlexTurismo?style=for-the-badge)
